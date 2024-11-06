@@ -8,7 +8,7 @@
 
 Hello World! 🌎<br>
 I'm Farzad, a passionate developer with a mind full of code 💻.<br>
-When I'm not busy building innovative solutions, you can find me geeking out over Game 🎮, web design 🎨, Reading 📚, and Nature 🌴.<br>
+When I'm not busy building innovative solutions, you can find me geeking out over Game 🎮, web design 🎨, Reading 📚, Nature 🌴.<br>
 Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!<br><br>
 On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀<br>
 Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.<br><br>
@@ -61,7 +61,7 @@ Let's code, and change the world! 💻💡
 ## 🏆 &nbsp;GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?
-username=FarzadDehghani&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+username=FarzadDehghani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ &nbsp;Random Dev Quote
 
