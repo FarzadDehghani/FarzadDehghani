@@ -51,17 +51,14 @@ Let's code, and change the world! 💻💡
 ## 📊 &nbsp;GitHub Analytics:
 
 <p align="center">
-<a href="https://github.com/FarzadDehghani">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarzadDehghani&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarzadDehghani&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 
 ## 🏆 &nbsp;GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?
-username=FarzadDehghani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FarzadDehghani&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ &nbsp;Random Dev Quote
 
