@@ -84,10 +84,10 @@ Let's code, and change the world! 💻💡
 
 ## 📊 &nbsp;GitHub Analytics:
 
-<p align="center">
+<div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarzadDehghani&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarzadDehghani&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+</div>
 
 
 ## 🏆 &nbsp;GitHub Trophies
@@ -100,5 +100,5 @@ Let's code, and change the world! 💻💡
 
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ArjunCodess/count.svg?"  />
+[![](https://visitcount.itsvg.in/api?id=FarzadDehghani&icon=5&color=10)](https://visitcount.itsvg.in)
 </div>
