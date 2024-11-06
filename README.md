@@ -99,6 +99,4 @@ Let's code, and change the world! 💻💡
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-<div align="center">
-[![](https://visitcount.itsvg.in/api?id=FarzadDehghani&icon=5&color=10)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=FarzadDehghani&icon=4&color=9)](https://visitcount.itsvg.in)
