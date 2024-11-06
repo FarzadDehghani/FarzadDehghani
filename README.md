@@ -17,10 +17,30 @@ Let's code, and change the world! 💻💡
 
 
 ## 🛠 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
+![React Query](https://img.shields.io/badge/-ReactQuery-05122A?style=for-the-badge&logo=reactQuery&logoColor=FF4154)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-05122A?style=for-the-badge&logo=testing-library&logoColor=C21325)&nbsp;
+![React Test Library](https://img.shields.io/badge/-Jest-05122A?style=for-the-badge&logo=jest&logoColor=C21325)&nbsp;
+![PWA](https://img.shields.io/badge/-PWA-05122A?style=for-the-badge&logo=pwa&logoColor=C21325)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=for-the-badge&logo=graphql&logoColor=FF4154)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=tailwindCSS&logoColor=06B6D4)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=for-the-badge&logo=mui&logoColor=007FFF)&nbsp;
+![Ant design](https://img.shields.io/badge/-Antdesign-05122A?style=for-the-badge&logo=Antdesign)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=for-the-badge&logo=jQuery)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=for-the-badge&logo=Wordpress)&nbsp;
+![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=for-the-badge&logo=Woocommerce)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 
 ## 🌐 Socials:
 <p align="left">
@@ -29,6 +49,7 @@ Let's code, and change the world! 💻💡
 </p>
 
 ## 📊 GitHub Analytics:
+
 <p align="center">
 <a href="https://github.com/FarzadDehghani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarzadDehghani&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
@@ -38,10 +59,12 @@ Let's code, and change the world! 💻💡
 
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?
 username=FarzadDehghani&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
