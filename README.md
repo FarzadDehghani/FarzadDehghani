@@ -1,4 +1,4 @@
-## 👩‍💻 About Me:
+## 👩‍💻 &nbsp;About Me:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Let's code, and change the world! 💻💡
 
 
 
-## 🛠 Tech Stack:
+## 🛠 &nbsp;Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
@@ -42,28 +42,28 @@ Let's code, and change the world! 💻💡
 ![Woocommerce](https://img.shields.io/badge/-Woocommerce-05122A?style=for-the-badge&logo=Woocommerce)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
 
-## 🌐 Socials:
+## 🌐 &nbsp;Socials:
 <p align="left">
 <a href="https://www.linkedin.com/in/farzaddehghani/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:www.farzad.dehghani1379@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## 📊 GitHub Analytics:
+## 📊 &nbsp;GitHub Analytics:
 
 <p align="center">
 <a href="https://github.com/FarzadDehghani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarzadDehghani&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarzadDehghani&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FarzadDehghani&show_icons=true&theme=algolia&include_all_commits=false&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FarzadDehghani&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?
 username=FarzadDehghani&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ &nbsp;Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
